@@ -1,6 +1,7 @@
 #  Network-Diagram
 
-# 1) Setup Wazuh in VirtualBox Tutorial: https://www.youtube.com/watch?v=Ldm9hv7Tki8
+# 1) Setup Wazuh in VirtualBox Tutorial 
+https://www.youtube.com/watch?v=Ldm9hv7Tki8
 
   - Install GPG key as root for Linux devices cmd: curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo gpg --no-default-keyring --keyring gnupg-ring:/usr/share/keyrings/wazuh.gpg --import
 sudo chmod 644 /usr/share/keyrings/wazuh.gpg
